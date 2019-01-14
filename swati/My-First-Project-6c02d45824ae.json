@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alien-dialect-226710",
+  "private_key_id": "6c02d45824aee20d5b5a8a0702218bf8d5c507b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDZbaLKuy8OR+aW\nOjyzpItfwsILHNLTXt+56bnZLfRuRuSkRfUXGGcmPHUVMI3sIWTxvf6vrFKRZ/9i\noq2AD7/iCjsn+lxQbIeWSe3vadZF1c/xlFHYmhS7cmsd4bd7h1M1LrvQRUfqSatY\neAmPPDJfwo94Xxcj1R+WbBzEYn7YaObQx16saoGqL/eG1lp9Ut/W540R710i+xp3\nRdB0N4TH75O10q1k+tRKkGaJ0J2XTD+Q20X2rX09E9BdzywytObGx8nRJS9jZbO4\nWpVqJYYBGX9Cx47k92/AXH+3ZsRRywYAxoLJg6zAd8YNw5SdP900fOIcm6rmVLuB\nas/Pkl1zAgMBAAECggEAW6h7vYH+WsNVwhPH3iUp+hMEsSGUALYYk2ujxJm6Vri9\nD0FMilFnvnczFl0zHw2O29fv40e+QPz57K9Oe9Nn3RbaDEbfHqo52FHPI6PWx/bU\nI++WNzzxK3oXDPBH5KPOIHfUhf6GzA4FVRS5VvAV/kdrKt/PRfREzilCUUmCVqDP\nbj42aJ0Do32dFdzjGpAdwBKvjWyt/LEjYK1ymmnTHTGyR7kKRfNDEcY+WvO6eY/w\nulNLdbYBQTKYKypVWuY4iO/q3puMEds4onaTut1WqZdpi6I6OD2GWAb0BBXtrKt9\nEGYshkhnMs6w3+BhmaaaOuWgST5bItDFXESQPmEcFQKBgQDsRqV7lxnJp6ZXD+zW\n9IgBG1BodCiNeuHBWfB6XumpxCE8lpYQz8yX9VVk8tSg6ccSrCAun6ANKD3OKtVU\ngNTVZtoTjzm25HszFHyhr8/PntyuVdtP1BpzlFbsLpO/6sz6LIvlfM3LEyOMSezt\njbMN3Z4njPgGrcw70D+m/p729wKBgQDrlDQNSGei37MCNo8kPL94RVKfm/jhqqMD\nrF3v8HeggiM2s1kmwAWxCOz3NbxK1b2aeOaR4UMD0GXR9j23fiyXwos1y9jPyvlv\nWQlSBUKWPqxoJyYPILqtKfBUI89h6Rnpc+VlAiDI+etSdWcoeKF16XPIMolWCBmZ\nodo13jsCZQKBgFlYRY88jgXRHXdikD6gbSVt/LPi6MrHIsMIjYTYiyclASR2FPz6\ndvUnUklAAeNvQ1XuPKUku1L+WpCxZcX0iYbAw8oNqNdeArBIGPDTGJP8EJrj4HCJ\nVg9Kkqvw2PIDics4ORZoYTFfZVvRQIR7xq+BlCKEje2InugnUUqGkfn1AoGBALpn\npZxRC3gsS8fXhgIlc1fmeo9C6ncd/yk77YSbIP1HnDd/SG7KCHbh2iduRJRudj3R\nppgNx2owLzEpCAK2evCGhoLFzsP1FtQNfruA4ARkiSVMvOfBfRTiF4FsaH9P5Cn+\ng6geO/TrFFJGBZ9XfGMBm5TwsAz8Ec2n7TMsqkKlAoGBAODFAZsb/BL6+pNH7eNp\nVbGRl5iG756LYE7ZLZxKeaUMVo2NVKfvBng1p01Nc/Nlcxirh0LEE6S/iUbxkvgs\nqF6LfwEEZIc+HdHjR8HoNaCLsGjHwYxEP4eJqMv0DpxNuhxFak45oLcenLpDwRN9\ndMRGgzAZf3FxL6PDgtmNMQE8\n-----END PRIVATE KEY-----\n",
+  "client_email": "swati-pandey@alien-dialect-226710.iam.gserviceaccount.com",
+  "client_id": "108031584829130153787",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/swati-pandey%40alien-dialect-226710.iam.gserviceaccount.com"
+}

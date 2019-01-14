@@ -1,0 +1,6 @@
+print("enter the name")
+x=input()
+print("hello,"+x)
+print("enter the number")
+a=input()
+print(int(a))
